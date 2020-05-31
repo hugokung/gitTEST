@@ -26,5 +26,6 @@ int main()
         if(i%3==0) cnt++;
     }
     printf("this is a test!!\n");
+    printf("this is a test 2!!!\n");
     return 0;
 }
